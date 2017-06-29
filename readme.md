@@ -1,6 +1,6 @@
-# 30nama links Chromium/Chrome extension
+# "30nama unblocker" Chromium/Chrome extension
 
-### This will change any blocked 30nama\*.\*/\* links to 30nama.us/\*
+### This will change any blocked 30nama\*.\*/\* URL to 30nama.us/\*
 
 # Known issues
 
